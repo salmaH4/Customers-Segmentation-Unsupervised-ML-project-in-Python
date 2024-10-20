@@ -82,6 +82,6 @@
 ![image](https://github.com/user-attachments/assets/593f46f8-b37f-49a8-865f-fc9362012afd)
 
 #### Trends & Patterns found:
-1. target cluster would be cluster 1 which has a high spending score and high annual income.
-2. approxiamtley 54% of females in cluster 1 shoppers are females. we should look for ways to attract more of them using a marketing campaign targeting popular items in this cluster.
-3. cluster 4 has a potential in sales. so we should make an event on popular items purchased by them.
+1. target cluster would be the green cluster no.2 which has a high spending score and high annual income.
+2. approxiamtley 54% of customers in cluster 2 are females. So, we should look for ways to attract more of them by using a marketing campaign targeting popular items in this cluster.
+3. cluster 0 has a potential in sales. So, we should make an event on popular items purchased by them.
